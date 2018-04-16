@@ -1,9 +1,10 @@
 {
-  "main.css": "static/css/main.266c1d95.css",
-  "main.css.map": "static/css/main.266c1d95.css.map",
-  "main.js": "static/js/main.295b94df.js",
-  "main.js.map": "static/js/main.295b94df.js.map",
+  "main.css": "static/css/main.b9f7008e.css",
+  "main.css.map": "static/css/main.b9f7008e.css.map",
+  "main.js": "static/js/main.63ec4a10.js",
+  "main.js.map": "static/js/main.63ec4a10.js.map",
   "static/media/BurgerIcon.scss": "static/media/BurgerIcon.73651aff.scss",
+  "static/media/aprender.svg": "static/media/aprender.aeb6e5e5.svg",
   "static/media/asociacion@1x.jpg": "static/media/asociacion@1x.d4125de0.jpg",
   "static/media/asociacion@2x.jpg": "static/media/asociacion@2x.fb589649.jpg",
   "static/media/asociacion@3x.jpg": "static/media/asociacion@3x.7d1798fb.jpg",
@@ -13,6 +14,14 @@
   "static/media/formacion@1x.jpg": "static/media/formacion@1x.b74f9939.jpg",
   "static/media/formacion@2x.jpg": "static/media/formacion@2x.571ad25c.jpg",
   "static/media/formacion@3x.jpg": "static/media/formacion@3x.ec998685.jpg",
+  "static/media/info.svg": "static/media/info.01c21e9a.svg",
+  "static/media/inicio@1x.jpg": "static/media/inicio@1x.5645c341.jpg",
+  "static/media/inicio@2x.jpg": "static/media/inicio@2x.e5c8f31b.jpg",
+  "static/media/inicio@3x.jpg": "static/media/inicio@3x.5d0aaade.jpg",
+  "static/media/ley.svg": "static/media/ley.08096e42.svg",
+  "static/media/lista.svg": "static/media/lista.f71f3dee.svg",
   "static/media/logo.png": "static/media/logo.892bee85.png",
-  "static/media/search.svg": "static/media/search.51758587.svg"
+  "static/media/search.svg": "static/media/search.51758587.svg",
+  "static/media/seguro.svg": "static/media/seguro.90a03a36.svg",
+  "static/media/trabajo.svg": "static/media/trabajo.97b1252c.svg"
 }
